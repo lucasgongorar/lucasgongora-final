@@ -5,9 +5,9 @@
 * **Objetivo General**: Mejorará la visibilidad de mi trabajo como diseñador y estudiante de segundo año de Diseño, lo que atraerá a potenciales clientes y oportunidades laborales que buscan nuevos talentos y jóvenes creativos con una visión propia.
 
 * **Usuarios**
-![promedio](https://github.com/lucasgongorar/lucasgongora.cl/assets/110742490/61d8ac56-ab41-4e56-b29b-6c3b6b8166e0)
-![limite1](https://github.com/lucasgongorar/lucasgongora.cl/assets/110742490/f78b6df5-f81f-4cc4-871d-52fbafc4d411)
-![limite2](https://github.com/lucasgongorar/lucasgongora.cl/assets/110742490/0140ec9a-33cb-41dd-82ad-f7c534b99864)
+![promedio](https://github.com/lucasgongorar/lucasgongora-final/assets/110742490/65df228b-19f1-4921-8459-3a50635e0bfc)
+![limite1](https://github.com/lucasgongorar/lucasgongora-final/assets/110742490/6cca1b58-f413-4449-88a2-af1f5cc08437)
+![limite2](https://github.com/lucasgongorar/lucasgongora-final/assets/110742490/338f2a42-7ea1-409e-9b2a-1771da906e89)
 
 * **Antecedentes**
   *  [Huy Phan](https://huyml.co/?ref=godly): Minimalista, identidad propia, carácter ilustrativo, organizado para el espectador, memorable, sin embargo existe poca utilización de color.
@@ -29,4 +29,4 @@
   <img width="1404" alt="Captura de pantalla 2023-11-15 a la(s) 12 45 48" src="https://github.com/lucasgongorar/lucasgongora.cl/assets/110742490/9aafa476-e690-4eab-963c-f1c82c8d9e79">
 
 * **Referentes**
-![moodboard](https://github.com/lucasgongorar/lucasgongora.cl/assets/110742490/602743f5-accd-4959-a050-f3c64b113bbf)
+![moodboard](https://github.com/lucasgongorar/lucasgongora-final/assets/110742490/b1565261-45ea-417d-aeae-d783eea2d48a)
