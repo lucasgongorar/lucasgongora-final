@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <!--En la siguiente línea voy por el estilo CSS que ofrece Bootstrap-->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css">
+        <!--estilo CSS al que puede conmplementar o contradecir-->
+        <style>
+            section {
+                scroll-margin-top: 50px;
+            }
+            nav {
+                backdrop-filter: blur(1rem);
+            }
+            #foto {
+                background: transparent url("https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/fondo.jpg") 0 0 no-repeat;
+                background-size: cover;
+            }
+            footer{
+                background: #435E3B;
+            }
+        </style>
+        <title>Lucas Góngora</title>
+    </head>
+    <body>
+        <!--Barra de navegación fija al tope-->
+        <nav class="navbar fixed-top navbar-expand-lg">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">Lucas Góngora</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMenu" aria-controls="navbarMenu" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarMenu">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item"><a class="nav-link" href="#lasEspecialidades">Especialidades</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#losTrabajos">Trabajos</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#lasOpiniones">Opiniones</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#losContactos">Contactos</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+<!--Encabezado--><header class="vh-100" id="foto"><div class="position-absolute top-50 start-50 translate-middle w-50"><p class="fs-4 text-center">
+    Hola! Soy Lucas Góngora, un diseñador en proceso con una identidad muy propia, interesado principalmente en la intersección entre el Diseño Textil y los Biomateriales. He desarrollado proyectos en las áreas de <a href="#lasEspecialidades" class="link-dark"> Diseño Textil, Styling, Diseño UX/UI, Biomateriales, Diseño Gráfico y Social Media</a>.
+</p></div></header><!--Sección de #lasEspecialidades--><section class="bg-light" id="lasEspecialidades"><div class="container py-5"><div class="row gx-5"><div class="col-lg-4 mb-5 mb-lg-0"><h2 class="h4 fw-bolder"><i class="bi bi-asterisk me-1 mb-1 text-success"> </i></i> Diseño Textil
+        </h2><p>He desarrollado productos que resuelven problemáticas relacionadas a la Salud, además de idear, conceptualizar y tangibilizar las necesidades del vestuario en usuarios de contextos de producción cinematográfica.</p><small>#Textil</small></div><div class="col-lg-4 mb-5 mb-lg-0"><h2 class="h4 fw-bolder"><i class="bi bi-bricks me-1 mb-1 text-success"></i> Biomateriales
+        </h2><p>Me interesa el desarrollo de nuevas materialidades que reemplacen materiales contaminantes en la actualidad, que hagan simbiosis con las necesidades reales del planeta, en este sentido que provengan de la naturaleza y sean biodegradables. El futuro será biomaterial o no será.</p><small>#Biomateriales</small></div><div class="col-lg-4"><h2 class="h4 fw-bolder"><i class="bi bi-brush me-1 mb-1 text-success"></i> Diseño Gráfico
+        </h2><p>Experto en tipografía y caligrafía, tengo un sello personal y desarrollo principalmente trabajo para tiendas o eventos relacionados a imagen de marca y diseño caligráfico.</p><small>#Gráfico</small></div></div></div></section>
+        <!--Sección de #losTrabajos-->        
+        <section class="border-top border-bottom" id="losTrabajos">
+            <div class="container py-5">
+                <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4" id="trabajos"></div>
+            </div>
+        </section>
+        <!--Sección de #lasOpiniones-->        
+        <section class="bg-light" id="lasOpiniones">
+            <div class="container py-5">
+                <div class="text-center mb-5">
+                    <h2 class="fw-bolder">Opiniones</h2>
+                    <p class="lead mb-0">Algunos clientes felices</p>
+                </div>
+                <div class="row">
+                    <div class="col-sm-11 col-md-10 col-lg-9 col-xl-8 mx-auto">
+                        <!-- Primer comentario-->
+                        <div class="card mb-4 shadow-sm">
+                            <div class="card-body p-4">
+                                <p class="mb-1">😁 Me encantaría tener su letra! Siempre hace real la idea que tengo.</p>
+                                <div class="small text-muted text-end">— Mi Mamá</div>
+                            </div>
+                        </div>
+                        <!-- Segundo comentario-->
+                        <div class="card mb-4 shadow-sm">
+                            <div class="card-body p-4">
+                                <p class="mb-1">🤯 Tremendo equipo! Producción y personas humanas de gran nivel, me sentí cómoda actuando.</p>
+                                <div class="small text-muted text-end">— Francisca Imboden</div>
+                            </div>
+                        </div>
+                        <!-- Tercer comentario-->
+                        <div class="card mb-4 shadow-sm">
+                            <div class="card-body p-4">
+                                <p class="mb-1">😁 Tiene muy buena planificación y organización de tiempos, le pedí una pizarra de tiza con una frase que quería y supero mis expectativas, seguimos en contacto y recomiendo totalmente!</p>
+                                <div class="small text-muted text-end">— Gourmetería</div>
+                            </div>
+                        </div>
+                        <!-- Listo, no más comentarios-->
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Sección de #losContactos-->        
+        <section class="border-top border-bottom" id="losContactos">
+            <div class="container py-5">
+                <div class="text-center mb-5">
+                    <h2 class="fw-bolder">Contactos</h2>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card h-100 shadow-sm">
+                            <div class="card-body text-center">                        
+                                <h3 class="m-0 fs-5"><span class="fs-1">📍</span><br/>Santiago</h4>
+                                <div class="small text-black-50">Chile</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card h-100 shadow-sm">
+                            <div class="card-body text-center">
+                                <h3 class="m-0 fs-5"><span class="fs-1">💌</span><br/>Email</h4>
+                                <div class="small text-black-50"><a href="#!">lucasgongora@uc.cl</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card h-100 shadow-sm">
+                            <div class="card-body text-center">
+                                <h3 class="m-0 fs-5"><span class="fs-1">📱</span><br/>Instagram Portafolio</h4>
+                                <div class="small text-black-50">@gongorapfolio</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- El pie de página-->
+        <footer class="py-4 text-white">
+            <div class="container px-5"><p class="text-center small">Lucas Góngora &copy; 2023</p></div>
+        </footer>
+        <!-- Lo que sigue es JavaScript a secas-->
+        <script>
+          //poner lo que tengo que reemplazar del modal acá//
+        async function portfolio() {
+                const consulta = await fetch("https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/datos.json");
+                const data = await consulta.json();
+                var donde = document.querySelector("#trabajos");
+                data.forEach(function (t, i) {
+                    donde.innerHTML +=`
+                        <article class="col"><div class="card h-100 shadow-sm ${t.soporte}"><img src="${t.fotos[0]}" class="card-img-top"><div class="card-body"><h3 class="fs-5"><a href="single.html?nro=${i}" class="link-secondary">${t.nombre}</a></h3><p>${t.abstract}</p><small>#${t.soporte}</small></div></div></article>`;
+                });
+            }
+            portfolio().catch((error) => console.error(error));
+        </script>
+        <!-- Lo que sigue es la biblioteca de Bootstrap-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous"></script>
+    </body>
+</html>

@@ -1,0 +1,59 @@
+[
+    {
+        "nombre": "Caliv",
+        "fotos": ["https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/1.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/2.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/3.jpeg"],
+        "soporte": "Textil",
+        "abstract": "Cocina con alivio",
+        "texto": "Accesorio textil ubicado en el antebrazo que permite secar y disminuir el sudor del rostro debido a su composición material. La exposición facial a vapores y el calor de utensilios mientras se cocina, causa y agrava síntomas como ardor, enrojecimiento y sudoración facial. Su finalidad es disminuir la sintomatología facial ante las condiciones de exposición, con el fin de desempeñar de mejor forma las labores de la cocina."
+    },
+    {
+        "nombre": "Styling El Parche Antes De La Herida",
+        "fotos": ["https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/4.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/5.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/6.jpeg"],
+        "soporte": "Styling",
+        "abstract": "Styling Producción Cinematográfica",
+        "texto": "Styling para Producción Cinematográfica de cortometraje El Parche Antes De La Herida. Talentos: Francisca Imboden, Ilan Spollansky. Directores: Ivannia Vanni, Vicente Piña. Involucró desarrollo de looks en base al guión y pruebas de vestuario con actores in situ."
+    },
+    {
+        "nombre": "Pic-Puff",
+        "fotos": ["https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/7.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/8.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/9.jpeg"],
+        "soporte": "UX/UI",
+        "abstract": "Picnic para niñes",
+        "texto": "Experiencia de Picnic desarrollada para niñes, caracterizado por su identidad sensorial, estimulante, interactiva y lúdica. Consiste en dos puffs de forma tubular de aproximadamente 6 metros de largo cada uno, contienen bolsillos en los que se encuentran diversos objetos sensoriales y/o comestibles."
+    },
+    {
+        "nombre": "Caligrafía Partes de Matrimonio",
+        "fotos": ["https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/10.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/11.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/12.jpeg"],
+        "soporte": "Gráfico",
+        "abstract": "Caligrafía para Matrimonio",
+        "texto": "Trabajo de caligrafía a mano para invitación de matrimonio de Macarena y Daniel en Brasil, 2023."
+    },
+    {
+        "nombre": "Quinquén",
+        "fotos": ["https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/13.webp", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/14.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/15.jpeg"],
+        "soporte": "Biomateriales",
+        "abstract": "Refugio Micielar para Ecosistemas Boscosos",
+        "texto": "Refugio biomaterial a partir de micelio que busca la preservación para especie nativa Chincol chilena ante la presencia de depredadores existentes en ecosistemas boscosos. Además de esto se desarrollo cestería como sustrato del hongo, siendo este de hojas de cebolla deshidratadas y cáñamo."
+    },
+    {
+        "nombre": "Gourmetería",
+        "fotos": ["https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/16.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/17.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/18.jpeg"],
+        "soporte": "Gráfico",
+        "abstract": "Branding y pizarras con diseño caligráfico",
+        "texto": "Desarrollo de branding para cafetería brasileña Gourmetería en Providencia, además de trabajo caligráfico a mano en pizarras."
+    },
+    {
+        "nombre": "Influencer @lucas.notes",
+        "fotos": ["https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/19.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/20.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/21.jpeg"],
+        "soporte": "Social Media",
+        "abstract": "Influencer de lifestyle y diseño",
+        "texto": "Influencer de lifestyle y diseño en Instagram, comencé ayudando a estudiantes a prepararse para la PTU en la pandemia. Además he trabajado con marcas como Sharpie Latinoamérica y ZeroBlue. He sido embajador de diversas pymes chilenas de papelería y comunico una parte de mi vida, buscando generar y conectar con una comunidad virtual."
+    },
+    {
+        "nombre": "Vaso Biomaterial",
+        "fotos": ["https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/22.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/23.jpeg", "https://raw.githubusercontent.com/lucasgongorar/c12-opr-dnm/main/img/24.jpeg"],
+        "soporte": "Biomateriales",
+        "abstract": "Vaso de Borra de Café desde un molde 3D",
+        "texto": "Desarrollo de un vaso biomaterial de borra de café a partir del vaciado de un molde desencajable impreso en 3D. La receta consiste principalmente en dicho sustrato, glicerina y gelatina sin sabor, se varío las proporciones de cada ingrediente, hasta lograr la receta adecuada."
+    }
+
+]
