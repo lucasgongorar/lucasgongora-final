@@ -29,7 +29,8 @@
 
 
   *  [Jonas Mosesson](https://jonasmosesson.se/?ref=godly): Rescato la identidad ilustrativa en la composición y gráfica, navegación intuitiva hacia abajo, links a otras páginas de contacto, sin embargo usaría mejor el color, acotaría la paleta de colores para que no se viese tan sobrecargado.
-<img width="1426" alt="Captura de pantalla 2023-11-23 a la(s) 17 41 18" src="https://github.com/lucasgongorar/lucasgongora-final/assets/110742490/67fd702d-b84a-44c7-a29b-5eb57d8d5b11">
+<img width="1380" alt="Captura de pantalla 2023-11-23 a la(s) 17 42 13" src="https://github.com/lucasgongorar/lucasgongora-final/assets/110742490/b89bcf17-817f-41ca-b890-49b18a205b1e">
+
 
 
 * **Referentes**
