@@ -1,4 +1,3 @@
-### lucasgongora.cl
 
 # Portafolio Personal
 
